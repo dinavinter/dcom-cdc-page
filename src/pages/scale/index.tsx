@@ -97,11 +97,11 @@ function ScalePage() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, staggerChildren: 0.2 }}
         >
-          <AppShowcase imageUrl="/images/1.png" alt="Mobile app showcase 1" />
-          <AppShowcase imageUrl="/images/2.png" alt="Mobile app showcase 2" />
-          <AppShowcase imageUrl="/images/3.png" alt="Mobile app showcase 3" />
-          <AppShowcase imageUrl="/images/4.png" alt="Mobile app showcase 4" />
-          <AppShowcase imageUrl="/images/5.png" alt="Mobile app showcase 5" />
+          <AppShowcase imageUrl="/images/1.png" alt="Magnum app - For the ultimate indulgence" />
+          <AppShowcase imageUrl="/images/2.png" alt="C&G baby club app" />
+          <AppShowcase imageUrl="/images/3.png" alt="Manchester United app" />
+          <AppShowcase imageUrl="/images/4.png" alt="Golf app" />
+          <AppShowcase imageUrl="/images/5.png" alt="Nescafe app" />
         </motion.div>
 
         {/* Stats Grid */}
